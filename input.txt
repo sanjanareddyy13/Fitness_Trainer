@@ -1,0 +1,7 @@
+height: 183
+weight: 69
+age: 21
+workout_type: Ab Development
+days_per_week: 5
+location: Home
+experience: Intermediate
